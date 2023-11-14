@@ -12,7 +12,6 @@ public class CompareTwoArray {
 			 if(a[i]==b[i])
 			 {
 				 al.add(a[i]);
-				 System.out.println("git check");
 			 }
 		 }
 		 
