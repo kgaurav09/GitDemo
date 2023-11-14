@@ -1,0 +1,23 @@
+
+public class IntSwap {
+
+	public static void main(String[] args) {
+		int a=9;
+		int b=10;
+		/*
+		 * int temp;
+		 * 
+		 * temp=a; a=b; b=temp;
+		 */
+		
+		a=a+b;//19
+		b=a-b;//9
+		a=a-b;
+		
+				
+		System.out.println("value of a is"+a);
+		System.out.println("value of b is"+b);
+		
+	}
+
+}
