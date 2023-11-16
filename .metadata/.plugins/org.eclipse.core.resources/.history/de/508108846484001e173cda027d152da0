@@ -1,0 +1,22 @@
+
+public class CountStringOccurance {
+
+	public static void main(String[] args) {
+		
+		
+ int count=	countOccurance("asdfasdfasdfasdf","a");
+		
+	
+
+	}
+
+	private static int countOccurance(String word, String character) {
+	
+		{
+			word.charAt(i);
+			
+		}
+		return 0;
+	}
+
+}
