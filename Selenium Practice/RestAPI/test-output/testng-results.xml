@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T18:14:03 IST" name="Default suite" finished-at="2024-06-22T18:14:05 IST" duration-ms="2116">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T18:14:03 IST" name="Default test" finished-at="2024-06-22T18:14:05 IST" duration-ms="2116">
+      <class name="bookAPI.DynamicJson">
+        <test-method signature="AddBook()[pri:0, instance:bookAPI.DynamicJson@4d02f94e]" started-at="2024-06-22T18:14:03 IST" name="AddBook" finished-at="2024-06-22T18:14:05 IST" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+      </class> <!-- bookAPI.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
